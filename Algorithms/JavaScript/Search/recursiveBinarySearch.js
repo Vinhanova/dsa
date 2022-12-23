@@ -3,7 +3,7 @@ let startIndex = 0
 let endIndex = arr.length - 1
 
 function recursiveBinarySearch(arr, startIndex, endIndex, target) {
-  if (startIndex > endIndex) return -1
+  if (startIndex > endIndex) return -1 // Base case
 
   let midIndex = Math.floor((startIndex + endIndex) / 2)
 
