@@ -10,3 +10,9 @@ Practicing Data Structure and Algorithms (DSA) logging my progress • JavaScrip
 |      Title     |   Implementations   |
 |----------------|---------------------|
 |Recursive Binary Search|[JavaScript](https://github.com/Vinhanova/dsa/blob/main/Algorithms/JavaScript/Search/recursiveBinarySearch.js)<br />[Python](https://github.com/Vinhanova/dsa/blob/main/Algorithms/Python/Search/recursiveBinarySearch.py)|
+
+
+## Stacks
+|      Title     |   Implementations   |
+|----------------|---------------------|
+|Stack|[JavaScript](https://github.com/Vinhanova/dsa/blob/main/Algorithms/JavaScript/Stacks/stack.js)|
