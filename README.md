@@ -4,15 +4,15 @@ Practicing Data Structure and Algorithms (DSA) logging my progress • JavaScrip
 ## Arrays
 |      Title     |   Implementations   |
 |----------------|---------------------|
-|Kadane's Algorithm / Max Sub Array Sum|[JavaScript](https://github.com/Vinhanova/dsa/blob/main/Algorithms/JavaScript/Arrays/kadane.js)<br />[Python](https://github.com/Vinhanova/dsa/blob/main/Algorithms/Python/Arrays/kadane.py)|
+|Kadane's Algorithm / Max Sub Array Sum|[JavaScript](https://github.com/Vinhanova/dsa/blob/main/Algorithms/Arrays/JavaScript/kadane.js)<br />[Python](https://github.com/Vinhanova/dsa/blob/main/Algorithms/Arrays/Python/kadane.py)|
 
 ## Search
 |      Title     |   Implementations   |
 |----------------|---------------------|
-|Recursive Binary Search|[JavaScript](https://github.com/Vinhanova/dsa/blob/main/Algorithms/JavaScript/Search/recursiveBinarySearch.js)<br />[Python](https://github.com/Vinhanova/dsa/blob/main/Algorithms/Python/Search/recursiveBinarySearch.py)|
+|Recursive Binary Search|[JavaScript](https://github.com/Vinhanova/dsa/blob/main/Algorithms/Search/JavaScript/recursiveBinarySearch.js)<br />[Python](https://github.com/Vinhanova/dsa/blob/main/Algorithms/Search/Python/recursiveBinarySearch.py)|
 
 
 ## Stacks
 |      Title     |   Implementations   |
 |----------------|---------------------|
-|Stack|[JavaScript](https://github.com/Vinhanova/dsa/blob/main/Algorithms/JavaScript/Stacks/stack.js)|
+|Stack|[JavaScript](https://github.com/Vinhanova/dsa/blob/main/Algorithms/Stacks/JavaScript/stack.js)|
