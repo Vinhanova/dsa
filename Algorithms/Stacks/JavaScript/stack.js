@@ -24,7 +24,7 @@ class Stack {
   }
 
   isEmpty() {
-    return !this.size()
+    return this.size() === 0
   }
 
   clear() {
