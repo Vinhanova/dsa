@@ -1,5 +1,7 @@
 # Stacks
 
+Linear Data Structure that follow the order: LIFO (Last In First Out) or FILO (First In Last Out)
+
 <br />
 
 ## Stack Implementation
