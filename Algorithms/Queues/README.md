@@ -8,4 +8,4 @@ Linear Data Structure that follows the order: FIFO (First In First Out)
 
 ### Flow Example | [JavaScript](https://github.com/Vinhanova/dsa/blob/main/Algorithms/Queues/JavaScript/queue.js)
 
-<!-- <img width="700" alt="Stack" src="https://user-images.githubusercontent.com/50890445/215324856-d54153a9-4770-49c0-9cc9-ff70e604acdd.png"> -->
+<img width="450" alt="Queue" src="https://user-images.githubusercontent.com/50890445/216330013-4054700e-c27e-4fbd-8e6a-5a532636fe3e.png">
