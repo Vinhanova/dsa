@@ -25,3 +25,4 @@ Practicing Data Structure and Algorithms (DSA) logging my progress • JavaScrip
 | Title | Implementations                                                                                |
 | ----- | ---------------------------------------------------------------------------------------------- |
 | Queue | [JavaScript](https://github.com/Vinhanova/dsa/blob/main/Algorithms/Queues/JavaScript/queue.js) |
+| Priority Queue | [JavaScript](https://github.com/Vinhanova/dsa/blob/main/Algorithms/Queues/JavaScript/priorityQueue.js) |
